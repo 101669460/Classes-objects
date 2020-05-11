@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.exe
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.deps.json
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.runtimeconfig.json
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.dll
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\bin\HPD\Debug\netcoreapp3.1\Classes-objects.pdb
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\obj\HPD\Debug\netcoreapp3.1\Classes-objects.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\obj\HPD\Debug\netcoreapp3.1\Classes-objects.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\obj\HPD\Debug\netcoreapp3.1\Classes-objects.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\obj\HPD\Debug\netcoreapp3.1\Classes-objects.dll
+C:\Users\Dylan\Desktop\Work\Programming\Classes-objects\obj\HPD\Debug\netcoreapp3.1\Classes-objects.pdb
